@@ -5,7 +5,8 @@ jumppo图床网站，基于html5和php。
 ##介绍
 这个一个基于html5和php的一个图床网站，根据Martin Angelov写的HTML5 File Uploads with jQuery项目修改而成。
 
-[HTML5 File Uploads with jQuery](http://tutorialzine.com/2011/09/html5-file-upload-jquery-php/) 发布于2011年9月26日，本项目在它的基础上修改了界面，修改了上传成功的返回值类型（图片名、地址、html标签和markdowm标签）。
+[HTML5 File Uploads with jQuery](http://tutorialzine.com/2011/09/html5-file-upload-jquery-php/) 发布于2011年9月26日，
+本项目在它的基础上修改了界面，修改了上传成功的返回值类型（图片名、地址、html标签和markdowm标签）等等，后续还会继续增加功能
 
 
 ##ImagesUploadWebSite功能
@@ -13,10 +14,10 @@ jumppo图床网站，基于html5和php。
 1. 拖拽图片上传
 2. 图片上传后返回值多种类型
 
-	图片名称：a.jpeg
-	图片地址：images.jumppo.com/uploads/a.jpeg
-	html：<img src=images.jumppo.com/uploads/a.jpeg/>
-	markdown：![](images.jumppo.com/uploads/a.jpeg)
+        图片名称：a.jpeg
+        图片地址：images.jumppo.com/uploads/a.jpeg
+        html：<img src=images.jumppo.com/uploads/a.jpeg/>
+        markdown：![](images.jumppo.com/uploads/a.jpeg)
 
 ##demo地址 [http://imagesdemo.jumppo.com/](http://imagesdemo.jumppo.com/) 
 > 说明：demo程序仅供演示，请不要作为图床使用，上传的图片会定期自动清理。
