@@ -22,6 +22,7 @@ jumppo图床网站，基于html5和php。
 ##demo地址 [http://imagesdemo.jumppo.com/](http://imagesdemo.jumppo.com/) 
 > 说明：demo程序仅供演示，请不要作为图床使用，上传的图片会定期自动清理。
 
+![](http://images.jumppo.com/uploads/imagesUploadWebsite0.png)
 ![](http://images.jumppo.com/uploads/imagesUploadWebsite.png)
 
 
